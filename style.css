@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fffaf3;
+  color: #333;
+}
+header {
+  background: #2a5c2a;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.tagline {
+  font-style: italic;
+}
+footer {
+  background: #eee;
+  padding: 10px;
+  text-align: center;
+}
